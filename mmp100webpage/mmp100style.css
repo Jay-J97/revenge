@@ -1,0 +1,69 @@
+body {
+	background-color: black;
+	background-image:
+	font-family: Helvetica;
+}
+#contact
+
+{
+	color: white;}
+
+
+#name
+
+{
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	color:  #2c5cbc;
+
+}
+a:hover
+{
+	color: red;
+}
+#i1
+{
+	margin-left: 25%;
+}
+
+#header {
+	background-color:  #00a8b0;
+	text-align: center;
+}
+
+#container {
+	width: 1500px;
+	background-color: #00a8b0;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#content {
+	padding: 10px;
+	float: right;
+	width: 1000px;
+}
+
+#navigation {
+	padding: 10px;
+	float: left;
+	width: 250px;
+}
+
+#navigation ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.selected {
+	font-weight: bold;
+}
+
+#footer {
+	clear: both;
+	text-align: center;
+	padding-top: 200px;
+}
